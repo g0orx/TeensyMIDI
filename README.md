@@ -16,5 +16,5 @@ CW Decoder
 
 See the ![Wiki](https://github.com/g0orx/TeensyMIDI/wiki) for more details
 
-Gerber files, schematic and Arduino Due code now added.
+Gerber files, schematic and Teensy 4.0 code to be added soon.
 
